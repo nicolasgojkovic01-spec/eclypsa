@@ -25,3 +25,5 @@
 button:focus-visible{outline:2px solid #f1d79a;outline-offset:2px}
 @media(max-width:360px){.cardInfo{grid-template-columns:68px minmax(0,1fr);gap:8px}.detailArt{width:68px;height:91px}.ciEffect{grid-template-columns:1fr;gap:4px}.ciTop b{font-size:13px}.meta{grid-template-columns:90px minmax(0,1fr)}.arsHead span:last-child{max-width:170px;text-align:right}}
 @media(min-width:431px){.app{overflow-y:auto}}
+
+.card .cArt{position:absolute;top:0;left:0;right:0}.cArt.richArt .tag{display:none}.unit .cardIllustration{object-position:center 10%}
