@@ -1,0 +1,29 @@
+{
+  "sources": {
+    "porte": "image-gen-1(20260920-131848).png",
+    "fan": "image-gen-2(20260920-131850).png",
+    "garde": "image-gen-3(10).png",
+    "boucher": "image-gen-4(5).png",
+    "brasier": "image-gen-5(3).png",
+    "graine": "image-gen-6(3).png",
+    "mycele": "image-gen-7(1).png",
+    "pelerin": "image-gen-8(1).png",
+    "veilleur": "image-gen-9.png",
+    "collect": "image-gen-10.png"
+  },
+  "format": "WebP, max 768 x 1152, quality 86; source illustrations unchanged",
+  "shared": {
+    "revenant": "veilleur",
+    "mere": "collect"
+  },
+  "temporary_substitutions": {
+    "racines": {
+      "uses": "graine",
+      "missing_source": "germe_monstrueux_dans_la_forêt_brumeuse.png"
+    },
+    "colosse": {
+      "uses": "porte",
+      "missing_source": "porte_flambeau_dans_la_cathédrale_infernale.png"
+    }
+  }
+}
