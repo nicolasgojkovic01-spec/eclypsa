@@ -1,0 +1,4 @@
+Eclypsa infrastructure verification
+Marker: eclypsa-infra-2026-09-20-v1
+Production: https://eclypsa.vercel.app
+Branch: main
